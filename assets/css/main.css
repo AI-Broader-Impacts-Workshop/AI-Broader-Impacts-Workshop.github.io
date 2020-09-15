@@ -2518,6 +2518,7 @@ input, select, textarea {
 		position: relative;
 		overflow: hidden;
 		padding: 2em 0 2em 0;
+		text-align: center;
 		/* margin-bottom: 0; */
 	}
 
